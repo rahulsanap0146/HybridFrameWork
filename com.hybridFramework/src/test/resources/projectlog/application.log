@@ -1,0 +1,4 @@
+2021-10-17 12:40:04,679  INFO [main] BaseClass:30 - Initializing Browser
+2021-10-17 12:40:04,679  INFO [main] BaseClass:33 - null browswe is intitalized
+2021-10-17 12:40:06,555  INFO [main] BaseClass:43 - maximising browser window
+2021-10-17 12:40:06,969  INFO [main] BaseClass:46 - Applying common waits over a browser
